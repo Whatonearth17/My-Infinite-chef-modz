@@ -52,6 +52,43 @@ addIngredient("chopped_korean_radish",{
     adj:"chopped_korean_radish"
   });
 
+addIngredient("jackfruit_juice",{
+    type:"juice",
+    group:"water",
+    behavior: 1,
+    color:"#AB961F",
+    shape:"droplets_some",
+    scale:0.5,
+    keywords:"spiky,fruit,exotic,jack,stinky,juice",
+    dishName:"jackfruit_juice",
+    adj:"jackfruit_juice"
+    });
+
+addIngredient("chayote",{
+    type:"squash",
+    group:"vegetable",
+    behavior: 0,
+    color:"#90D036",
+    shape:"fruit_long",
+    scale:1.0,
+    keywords:"chayote,melon",
+    dishName:"chayote",
+    adj:"chayote",
+    broken:"chayote_juice"
+    });
+
+addIngredient("chayote_juice",{
+    type:"water",
+    group:"juice",
+    color:"#90D036",
+    shape:"droplets_some",
+    scale:0.5,
+    dishName:"chayote juice",
+    cookColor:"#90D036",
+    hidden:true
+  });
+
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
 });
+
