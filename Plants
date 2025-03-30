@@ -1,0 +1,56 @@
+addIngredient("sunflower",{
+    type:"decor",
+    color:"#B67A34",
+    shape:"flower",
+    scale:0.8,
+    keywords:"sun,flower,petal,",
+    dishName:"sunflower",
+    broken:"sunflower_seed"
+  });
+
+addIngredient("rose",{
+    type:"decor",
+    color:"#B0256F",
+    shape:"flower_rose",
+    scale:0.5,
+    keywords:"rose,flower,petal,",
+    dishName:"rose",
+    broken:"rose_petal"
+    });
+
+addIngredient("rose_petal",{
+    type:"decor",
+    color:"#B0256F",
+    shape:"bean",
+    scale:0.5,
+    dishName:"rose_petal",
+    keywords:"rose,flower,petal,"
+});
+
+addIngredient("korean_radish",{
+    type:"vegetable",
+    color:"#CADFA6",
+    shape:"bulb_down",
+    group:"vegetable",
+    scale:1.0,
+    keywords:"radish",
+    dishName:"korean_radish",
+    cookColor:"#BBAA95",
+    adj:"korean_radish",
+    broken:"chopped_korean_radish"
+  });
+
+addIngredient("chopped_korean_radish",{
+    type:"vegetable",
+    group:"vegetable",
+    color:"#CADFA6",
+    shape:"beans_some_flat",
+    scale:1.0,
+    dishName:"chopped_korean_radish",
+    cookColor:"#BBAA95",
+    hidden:true,
+    adj:"chopped_korean_radish"
+  });
+
+editIngredient("jackfruit",{
+    broken:"jackfruit_juice"
