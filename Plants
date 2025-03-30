@@ -52,18 +52,6 @@ addIngredient("chopped_korean_radish",{
     adj:"chopped_korean_radish"
   });
 
-addIngredient("jackfruit_juice",{
-    type:"juice",
-    group:"water",
-    behavior: 1,
-    color:"#AB961F",
-    shape:"droplets_some",
-    scale:0.5,
-    keywords:"spiky,fruit,exotic,jack,stinky,juice",
-    dishName:"jackfruit_juice",
-    adj:"jackfruit_juice"
-    });
-
 addIngredient("chayote",{
     type:"squash",
     group:"vegetable",
