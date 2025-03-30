@@ -54,3 +54,4 @@ addIngredient("chopped_korean_radish",{
 
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
+});
