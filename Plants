@@ -76,6 +76,29 @@ addIngredient("chayote_juice",{
     hidden:true
   });
 
+addIngredient("kohlrabi",{
+    type:"radish",
+    group:"vegetable",
+    behavior: 0,
+    color:"#C5D5B0",
+    shape:"cusp_circle_up",
+    scale:1.0,
+    keywords:"radish,german,tunip",
+    dishName:"kolrabi",
+    adj:"kolrabi",
+    broken:"chopped_kohlrabi"
+    });
+
+addIngredient("chopped_kohlrabi",{
+    type:"water",
+    group:"juice",
+    color:"#C5D5B0",
+    shape:"dots_some",
+    scale:1.0,
+    dishName:"chopped_kohlrabi",
+    hidden:true
+  });
+
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
 });
