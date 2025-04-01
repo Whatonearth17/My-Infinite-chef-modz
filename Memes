@@ -27,6 +27,13 @@ addIngredient("mustard_gas",{
     dishName:"mustard gas",
   });
 
+addIngredient("still_water",{
+    type:"water",
+    keywords:"meme,mango,gas,thosewhoknow,phonk",
+    dishName:"still water",
+    adj:"still"
+  });
+
 editIngredient("uranium",{
     broken:"acid"
 });
