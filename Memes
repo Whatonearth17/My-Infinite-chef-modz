@@ -17,3 +17,7 @@ addIngredient("the_observable_universe",{
     dishName:"universe",
     adj:"universal",
   });
+
+editIngredient("uranium",{
+    broken:"acid"
+});
