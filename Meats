@@ -36,13 +36,36 @@ addIngredient("stingray",{
   });
 
 addIngredient("stingray_meat",{
-    type:"meat",
-    color:"#C4A1AE",
+    type:"fish",
+    color:"#DF91D6",
     shape:"cutlet",
     group:"meat",
     scale:1.3,
     dishName:"stingray_meat",
-    cookColor:"#855F54",
+    cookColor:"#A27D45",
     adj:"stingray_meat",
     hidden:true,
+  });
+
+addIngredient("urchin",{
+    type:"fish",
+    color:"#100218",
+    shape:"spike_ball",
+    group:"fish",
+    scale:1.0,
+    keywords:"ouch,sea,spiky,uni,meat,urchin",
+    dishName:"urchin",
+    adj:"spiky",
+    broken:"uni"
+  });
+
+addIngredient("uni",{
+    type:"fish",
+    color:"#DCAB2F",
+    shape:"bean",
+    group:"fish",
+    scale:0.8,
+    keywords:"uni,sea,sushi,urchin",
+    dishName:"uni",
+    adj:"uni",
   });
