@@ -18,6 +18,15 @@ addIngredient("the_observable_universe",{
     adj:"universal",
   });
 
+addIngredient("mustard_gas",{
+    type:"steam",
+    color:"#8C7436",
+    shape:"gas",
+    scale:1.0,
+    keywords:"meme,mustard,gas,poison",
+    dishName:"mustard gas",
+  });
+
 editIngredient("uranium",{
     broken:"acid"
 });
