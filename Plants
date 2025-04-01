@@ -90,7 +90,7 @@ addIngredient("kohlrabi",{
     });
 
 addIngredient("chopped_kohlrabi",{
-    type:"water",
+    type:"radish",
     group:"juice",
     color:"#C5D5B0",
     shape:"dots_some",
