@@ -35,3 +35,15 @@ addIngredient("dalgona_cookie",{
     adj:"dalgona",
     broken:"bread_crumbs"
   });
+
+addIngredient("cereal_milk",{
+    type:"milk",
+    color:"#ECD8AD",
+    dishName:"",
+  });
+
+editIngredient("milk",{
+    reactions: {
+        cheerios: { set1:"cereal_milk" },
+        fruit_loops: { set1:"cereal_milk"}
+        cinnamon_crunch: { set1:"cereal_milk"}
