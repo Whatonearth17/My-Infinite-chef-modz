@@ -4,7 +4,7 @@ addIngredient("cheerios",{
     shape:"torus",
     scale:0.5,
     keywords:"cereal,cheerios,branded",
-    dishName:"cheerios",
+    dishName:"cheerios"
   });
 
 addIngredient("cinnamon_crunch",{
@@ -13,7 +13,7 @@ addIngredient("cinnamon_crunch",{
     shape:"coil",
     scale:0.5,
     keywords:"cereal,cinnamon,crunch,toast,branded",
-    dishName:"cinnamon_crunch",
+    dishName:"cinnamon_crunch"
   });
 
 addIngredient("fruit_loops",{
@@ -22,7 +22,7 @@ addIngredient("fruit_loops",{
     shape:"torus",
     scale:0.5,
     keywords:"cereal,fruit,loop,branded",
-    dishName:"fruit_loops",
+    dishName:"fruit_loops"
   });
 
 addIngredient("dalgona_cookie",{
@@ -39,7 +39,7 @@ addIngredient("dalgona_cookie",{
 addIngredient("cereal_milk",{
     type:"milk",
     color:"#ECD8AD",
-    dishName:"",
+    dishName:""
   });
 
 editIngredient("milk",{
