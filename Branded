@@ -45,5 +45,5 @@ addIngredient("cereal_milk",{
 editIngredient("milk",{
     reactions: {
         cheerios: { set1:"cereal_milk" },
-        fruit_loops: { set1:"cereal_milk" }
+        fruit_loops: { set1:"cereal_milk" },
         cinnamon_crunch: { set1:"cereal_milk" }
