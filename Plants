@@ -99,6 +99,18 @@ addIngredient("chopped_kohlrabi",{
     hidden:true
   });
 
+addIngredient("cherry_tomato",{
+    type:"tomato",
+    shape:"oval_thick",
+    scale:0.5,
+    color:"#C42020",
+    r:"70",
+    keywords:"mini,small,tomato",
+    dishName:"tomato",
+    adj:"tomato",
+    broken:"tomato_sauce"
+    });
+
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
 });
