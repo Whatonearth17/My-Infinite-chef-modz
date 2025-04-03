@@ -111,6 +111,11 @@ addIngredient("cherry_tomato",{
     broken:"tomato_sauce"
     });
 
+addIngredient("red_mushroom",{
+    type:"mushroom",
+    color:"#D33300",
+});
+
 addIngredient("blue_jazz",{
     color:"#3B55F7",
     type:"decor",
