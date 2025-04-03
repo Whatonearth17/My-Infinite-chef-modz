@@ -1,0 +1,9 @@
+addIngredient("meringue",{
+    color:"#e1e8eb",
+    shape:"gas_thin",
+    type:"cookie",
+    broken:"sugar",
+    dishName:"meringue",
+    adj:"meringue",
+    keywords:"sugar,frost,sweet"
+});
