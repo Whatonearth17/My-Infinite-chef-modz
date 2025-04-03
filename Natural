@@ -125,6 +125,25 @@ addIngredient("blue_jazz",{
     keywords:"flower,petal"
 });
 
+addIngredient("salmonberry",{
+    type:"berry",
+    color:"#D80033",
+    shape: "bunch",
+    scale:1.0,
+    keywords:"berry,salmon,fruits",
+    dishName:"salmonberry",
+    adj:"salmonberry",
+    broken:"salmonberry_juice"
+});
+
+addIngredient("salmonberry_juice",{
+    type:"juice",
+    color:"#D80033",
+    hidden:"true",
+    dishName:"salmonberry_juice",
+    adj:"salmonberry_juice"
+});
+
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
 });
