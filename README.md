@@ -7,9 +7,16 @@ How to install:
 Just simply copy the raw code from the ingredients you want to add, and paste it into infinite chef via inspect mode. The new stuff will immediatly take effect, no restart needed!
 -----------
 CREDITS:
-@slweeb for all the ingredients from cooks corner and fillipino stuff
+Some of the ingredients here are not mine, and are other mods ingredients with bug fixed code.
+
+including:
+
+@electric-moss for all the ingredients from cooks corner
+
 @holographicarchangel for the ingredients from exotic stuff
-@ggodpl for image.js
+
+@skweeb for the things in fillipino stuff
+
 
 
 Yeah that is basically it.
