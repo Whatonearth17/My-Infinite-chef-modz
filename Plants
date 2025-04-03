@@ -111,6 +111,15 @@ addIngredient("cherry_tomato",{
     broken:"tomato_sauce"
     });
 
+addIngredient("blue_jazz",{
+    color:"#3B55F7",
+    type:"decor",
+    shape:"foliage",
+    scale:0.5,
+    dishName:"blue_jazz",
+    keywords:"flower,petal"
+});
+
 editIngredient("jackfruit",{
     broken:"jackfruit_juice"
 });
